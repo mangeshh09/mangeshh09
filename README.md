@@ -18,6 +18,6 @@ Currently diving into the world of full-stack web development and honing my skil
 <p align="center">
 <a target="_blank" href="https://linkedin.com/in/mangeshghadwaje"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mangeshgdj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://linkedin.com/in/mangeshghadwaje"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
+<a target="_blank" href="https://drive.google.com/file/d/1qcuLhvk7g7X7IT5Fz2Lz917KTb63Ikuz/view?usp=sharing"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
 <br>
 </p>       
